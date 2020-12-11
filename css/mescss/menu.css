@@ -74,8 +74,17 @@
 
 .menu li {
     margin-bottom: 30px;
+    transform: translateY(30px);
+    opacity: 0;
+    transition: all .2s ease;
 }
 
 .menu a {
     color: white;
+}
+
+.menu-open .menu li {
+    transform: translateY(0);
+    opacity: 1;
+
 }

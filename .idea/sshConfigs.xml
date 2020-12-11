@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="br7gk.ftp.infomaniak.com" id="1161c037-435b-4e83-8ccd-91c3a9e96500" port="22" nameFormat="DESCRIPTIVE" username="br7gk_dphilip3" />
+    </configs>
+  </component>
+</project>
