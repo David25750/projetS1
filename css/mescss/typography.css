@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'HeeboRegular';
+    src: url('fonts/Heebo-VariableFont_wght.woff') format('woff'),
+    url('fonts/Heebo-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MavenProBold';
+    src: url('fonts/MavenPro-VariableFont_wght.woff') format('woff'),
+    url('fonts/MavenPro-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-family: 'HeeboRegular', sans-serif;
+}
+h1, h2 {
+    font-family: 'MavenProBold', sans-serif;
+}
+
+
 a {
     text-decoration: none;
     color: #C21404;

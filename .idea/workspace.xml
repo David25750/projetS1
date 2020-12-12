@@ -21,7 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0969a9e2-04ec-4f76-b257-66984a2ebd5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Programmes/PhpstormProjects/TP-site-Twin-Towers" />
+    <property name="last_opened_file_path" value="D:/Programmes/PhpstormProjects/TP-site-Twin-Towers/css/styles-typographie-couleurs.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -77,7 +78,9 @@
       <workItem from="1607464259014" duration="2311000" />
       <workItem from="1607549245823" duration="1476000" />
       <workItem from="1607629367668" duration="6475000" />
-      <workItem from="1607682338858" duration="1400000" />
+      <workItem from="1607682338858" duration="1602000" />
+      <workItem from="1607787262188" duration="3578000" />
+      <workItem from="1607809403716" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="page crée + début menu">
       <created>1607683551317</created>
@@ -86,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607683551317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="animation menu">
+      <created>1607683929479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607683929479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,24 +112,30 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="page crée + début menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="page crée + début menu" />
+    <MESSAGE value="animation menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="56" key="#SSH_Configurations" timestamp="1607464879591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="343" y="56" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1607464879591" />
-    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607683550127">
+    <state x="851" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607809750767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607683550127" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1606081024199">
+    <state x="851" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607809750767" />
+    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607683928807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606081024199" />
+    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607683928807" />
+    <state x="903" y="182" key="FileChooserDialogImpl" timestamp="1607809426535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="903" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607809426535" />
     <state x="276" y="56" key="SettingsEditor" timestamp="1607465924100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -128,5 +144,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="653" y="141" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1607465877103" />
+    <state x="801" y="189" key="search.everywhere.popup" timestamp="1607792314377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="801" y="189" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607792314377" />
   </component>
 </project>
