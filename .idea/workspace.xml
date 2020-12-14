@@ -21,15 +21,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0969a9e2-04ec-4f76-b257-66984a2ebd5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/mise-en-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/La problématique.html" beforeDir="false" afterPath="$PROJECT_DIR$/La problématique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Le film.html" beforeDir="false" afterPath="$PROJECT_DIR$/Le film.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scientifique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apropos.html" beforeDir="false" afterPath="$PROJECT_DIR$/apropos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autresprojets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autresprojets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nom-image-01.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -88,7 +92,9 @@
       <workItem from="1607682338858" duration="1602000" />
       <workItem from="1607787262188" duration="3578000" />
       <workItem from="1607809403716" duration="1345000" />
-      <workItem from="1607874463699" duration="5511000" />
+      <workItem from="1607874463699" duration="15566000" />
+      <workItem from="1607899677253" duration="4593000" />
+      <workItem from="1607932089219" duration="5426000" />
     </task>
     <task id="LOCAL-00001" summary="page crée + début menu">
       <created>1607683551317</created>
@@ -111,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607810344682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Menu pour chaque pages fini">
+      <created>1607883210139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607883210139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +146,8 @@
     <MESSAGE value="page crée + début menu" />
     <MESSAGE value="animation menu" />
     <MESSAGE value="typographie" />
-    <option name="LAST_COMMIT_MESSAGE" value="typographie" />
+    <MESSAGE value="Menu pour chaque pages fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu pour chaque pages fini" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="56" key="#SSH_Configurations" timestamp="1607464879591">
@@ -144,14 +158,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="851" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607809750767" />
-    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607881572167">
+    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607883209359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1607883209359" />
     <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607881572167" />
-    <state x="903" y="182" key="FileChooserDialogImpl" timestamp="1607809426535">
+    <state x="903" y="182" key="FileChooserDialogImpl" timestamp="1607899129248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="903" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607809426535" />
+    <state x="903" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607899129248" />
     <state x="276" y="56" key="SettingsEditor" timestamp="1607465924100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

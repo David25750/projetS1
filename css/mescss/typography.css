@@ -6,6 +6,7 @@
     font-style: normal;
 }
 
+
 @font-face {
     font-family: 'MavenProBold';
     src: url('fonts/MavenPro-VariableFont_wght.woff') format('woff'),
@@ -14,11 +15,25 @@
     font-style: normal;
 }
 
-html {
+body {
+    background-color: #F2D6BD;
     font-family: 'HeeboRegular', sans-serif;
+    font-size: 2vw;
+}
+header {
+    color: #C21404;
+}
+
+footer {
+    font-family: 'MavenProBold', sans-serif;
+    color: #F2D6BD;
+}
+nav  {
+    font-size: 1vw;
 }
 
 h1, h2 {
+    color: #FF591C;
     font-family: 'MavenProBold', sans-serif;
 }
 

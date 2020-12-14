@@ -1,0 +1,33 @@
+
+
+body {
+    align-items: center;
+    display: block;
+    justify-content: center;
+    height: 100vh;
+
+
+}
+footer {
+
+    background-color: #C21404;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    position: relative;
+
+}
+.réseaux_sociaux {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.réseaux_sociaux a {
+    padding: 5px;
+}
+.réseaux_sociaux p {
+    padding-left: auto;
+    padding-right: auto;
+}
+
+

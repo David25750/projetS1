@@ -9,16 +9,18 @@
     <link rel="stylesheet" href="css/mescss/typography.css">
     <link rel="stylesheet" href="css/mescss/layout.css">
     <link rel="stylesheet" href="css/mescss/menu.css">
+    <link rel="stylesheet" href="css/mescss/mise-en-page.css">
+    <link rel="stylesheet" href="css/mescss/formulaire.css">
     <title>à propos</title>
 </head>
 <body class=" ">
     <header>
-        <h1>À propos</h1>
         <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
             <div class="nav-toggle-bar"></div>
         </div>
         <nav class="menu">
             <ul>
+                <li><a href="./index.html">Acceuil</a></li>
                 <li><a href="./Le%20film.html">Influenceuse comme Katnis</a></li>
                 <li><a href="./La%20problématique.html">Regarder des vidéos,ça fait quoi ?</a></li>
                 <li><a href="./Scientifique.html">Extrait d'un article</a></li>
@@ -26,12 +28,87 @@
                 <li><a href="./autresprojets.html">Autres projets</a></li>
             </ul>
         </nav>
+    <center>
+        <img src="img/logo-w-foulness-orange.png" alt="Logo W-FOULNESS" height="35" width="35">
         <h1>W - FOULNESS</h1>
         <h3>L'effet papillon peut partir d'un clique</h3>
-
+    </center>
     </header>
 
     <div class="container">
+        <h1 class="title title-1">Contact</h1>
+        <form class="form">
+            <div class="form_group">
+                <input type="text" class="form_input" id="nom" placeholder="Nom" required>
+                <label for="nom" class="form_label">
+                    Nom
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="text" class="form_input" id="prenom" placeholder="Prénom" required>
+                <label for="prenom" class="form_label">
+                    Prénom
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="text" class="form_input" id="ville" placeholder="Ville" required>
+                <label for="ville" class="form_label">
+                    Ville
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="text" class="form_input" id="adresse" placeholder="Adresse" required>
+                <label for="adresse" class="form_label">
+                    Adresse
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="number" class="form_input" id="postal" placeholder="Code postal" required>
+                <label for="postal" class="form_label">
+                    Code postal
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="email" class="form_input" id="mail" placeholder="E-mail" required>
+                <label for="mail" class="form_label">
+                    E-mail
+                </label>
+            </div>
+            <div class="form_group">
+                <input type="number" class="form_input" id="telephone" placeholder="Numéro de téléphone" required>
+                <label for="telephone" class="form_label">
+                    Numéro de téléphone
+                </label>
+            </div>
 
+            <div class="form_message">
+                <label for="" class="form_message-label">
+                    Que voulez - vous me dire ?
+                </label>
+                <textarea name="" id="message" cols="30" rows="10" class="form_input message_input"></textarea>
+            </div>
+            <div class="submit">
+                <button class="submitBtn">Envoyer</button>
+            </div>
+        </form>
+    </div>
+    <footer>
+
+        <div class="réseaux_sociaux">
+            <a class="insta" href="https://www.instagram.com/david.phlp25/"><img src="img/insta-orange.png" alt="Mon Instagram" height="19" width="19"></a>
+            <a class="twi" href="https://twitter.com/david_phlp"><img src="img/twitter-orange.png" alt="Mon Twitter" height="21" width="21"></a>
+            <a class="fb" href="https://www.facebook.com/people/David-Philippe/100009185752126"><img src="img/facebook-orange.png" alt="Mon Facebook" height="19" width="19"></a>
+            <a class="mmi" href="http://mmimontbeliard.com/"><img src="img/logo-mmi-orange.png" alt="Site du MMI" height="21" width="29"></a>
+        </div>
+    <center>
+        <p class="mail">
+            david.philippe02@edu.univ-fcomte.fr
+        </p>
+        <p class="signature">
+            David Philippe TDC
+        </p>
+        <p class="mentions">Projet réalisé dans le cadre du département MMI de Montbéliard </p>
+    </center>
+    </footer>
 </body>
 </html>

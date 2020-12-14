@@ -23,12 +23,15 @@
 }
 .nav-toggle-bar::before {
     content: "";
+    height: 2.5px;
     top: -10px;
 }
 .nav-toggle-bar::after {
     content: "";
+    height: 3px;
     top: 10px;
 }
+
 .menu {
     background-color: #C21404;
     position: fixed;
@@ -39,7 +42,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateY(-100vw);
+    transform: translateY(-250vw);
     transition: all .4s;
     z-index: 1;
 }
@@ -81,6 +84,7 @@
 
 .menu a {
     color: white;
+    font-size: 4vw;
 }
 
 .menu-open .menu li {
