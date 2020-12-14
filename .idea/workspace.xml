@@ -21,11 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0969a9e2-04ec-4f76-b257-66984a2ebd5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video/the-hunger-games-2012-movie-official-theatrical-trailer-jennifer-lawrence-liam-hemsworth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/usine-électricité.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/La problématique.html" beforeDir="false" afterPath="$PROJECT_DIR$/La problématique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Le film.html" beforeDir="false" afterPath="$PROJECT_DIR$/Le film.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scientifique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/usine électricité.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +93,7 @@
       <workItem from="1607874463699" duration="15566000" />
       <workItem from="1607899677253" duration="4593000" />
       <workItem from="1607932089219" duration="19549000" />
-      <workItem from="1607968106079" duration="7907000" />
+      <workItem from="1607968106079" duration="9522000" />
     </task>
     <task id="LOCAL-00001" summary="page crée + début menu">
       <created>1607683551317</created>
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607978852123</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="page filmsas style">
+      <created>1607980636862</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607980636862</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +186,8 @@
     <MESSAGE value="caroussel fini" />
     <MESSAGE value="page acceuil fini" />
     <MESSAGE value="page autres projets fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="page autres projets fini" />
+    <MESSAGE value="page film sans style" />
+    <option name="LAST_COMMIT_MESSAGE" value="page film sans style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="56" key="#SSH_Configurations" timestamp="1607464879591">
@@ -188,11 +198,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="590" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607980117578" />
-    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607978851516">
+    <state x="572" y="0" key="CommitChangelistDialog2" timestamp="1607980636240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1607978851516" />
-    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607963706736" />
+    <state x="572" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607980636240" />
     <state x="862" y="100" width="581" height="630" key="DiffContextDialog" timestamp="1607953353498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -201,15 +211,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="903" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607899129248" />
+    <state x="972" y="314" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1607980710724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="972" y="314" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1607980710724" />
     <state x="276" y="56" key="SettingsEditor" timestamp="1607465924100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="276" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607465924100" />
-    <state x="720" y="147" key="Vcs.Push.Dialog.v2" timestamp="1607963721881">
+    <state x="720" y="147" key="Vcs.Push.Dialog.v2" timestamp="1607980741754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="720" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1607939321947" />
-    <state x="720" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607963721881" />
+    <state x="720" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607980741754" />
     <state x="653" y="141" key="ftp.server.browser" timestamp="1607465877103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
