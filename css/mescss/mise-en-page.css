@@ -1,13 +1,15 @@
-
-
 body {
+    background-color: #F2D6BD;
     align-items: center;
     display: block;
     justify-content: center;
     height: 100vh;
 }
 header {
+    background-color: #F2D6BD;
     padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 footer {
 
@@ -15,6 +17,44 @@ footer {
     padding-top: 5px;
     padding-bottom: 10px;
     position: relative;
+
+}
+.transition {
+    margin: 0;
+
+}
+.introduction {
+    margin-top: 0;
+    background-color: white;
+    color: #C21404;
+    font-size: 6vw;
+    padding: 25px;
+}
+.tweet {
+    margin-top: 0;
+    background-color: #F2D6BD;
+    display: inline-block;
+}
+.tweet p {
+    color: black;
+    padding: 20px;
+    font-size: 5vw;
+
+
+}
+.tweet img {
+    border: 3px solid #C21404;
+
+}
+.tweet_deux a,
+.tweet_quatre a,
+.tweet_trois a,
+.tweet_un a {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+
 
 }
 .réseaux_sociaux {
@@ -26,5 +66,6 @@ footer {
 .réseaux_sociaux a {
     padding: 5px;
 }
+
 
 
