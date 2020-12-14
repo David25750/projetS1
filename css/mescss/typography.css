@@ -21,8 +21,12 @@ body {
     font-size: 2vw;
 }
 header {
+    font-family: 'MavenProBold', sans-serif;
     color: #C21404;
+    font-size: 4vw;
 }
+
+
 
 footer {
     font-family: 'MavenProBold', sans-serif;

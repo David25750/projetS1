@@ -1,0 +1,27 @@
+img {
+    /*max-width: 100%;
+    height: auto;*/
+}
+.caroussel h2 {
+    margin: 0 20px;
+}
+
+.caroussel {
+    background-color: white;
+    color: #C21404;
+    padding: 20px 0;
+
+}
+ul.caroussel-items {
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+li.caroussel-item {
+    flex: 1 0 220px;
+    margin-right: 27px;
+    margin-left: 28px;
+    scroll-snap-align: center;
+}

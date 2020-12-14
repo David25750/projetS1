@@ -2,9 +2,9 @@
     background-color: transparent;
     width: 30px;
     height: 30px;
-    position: absolute;
+    position: fixed;
     top: 30px;
-    right: 30px;
+    left: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -90,5 +90,13 @@
 .menu-open .menu li {
     transform: translateY(0);
     opacity: 1;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 40px;
+    border-bottom: 3px solid white;
 
+}
+.menu-open .menu li:last-child {
+    border-bottom: none;
 }
