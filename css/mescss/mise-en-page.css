@@ -19,8 +19,18 @@ footer {
     position: relative;
 
 }
+.projets {
+    margin: 0;
+    background-color: white;
+}
+.projets h2 {
+    font-size: 6vw;
+    text-align: center;
+}
 .transition {
     margin: 0;
+    padding: 0;
+    border: none;
 
 }
 .introduction {
@@ -35,7 +45,7 @@ footer {
     background-color: #F2D6BD;
     display: inline-block;
 }
-.tweet p {
+.tweet p, .projets p {
     color: black;
     padding: 20px;
     font-size: 5vw;
