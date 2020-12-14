@@ -21,8 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0969a9e2-04ec-4f76-b257-66984a2ebd5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/video/the-hunger-games-2012-movie-official-theatrical-trailer-jennifer-lawrence-liam-hemsworth.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autresprojets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autresprojets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/La problématique.html" beforeDir="false" afterPath="$PROJECT_DIR$/La problématique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Le film.html" beforeDir="false" afterPath="$PROJECT_DIR$/Le film.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise-en-page.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +91,7 @@
       <workItem from="1607874463699" duration="15566000" />
       <workItem from="1607899677253" duration="4593000" />
       <workItem from="1607932089219" duration="19549000" />
-      <workItem from="1607968106079" duration="6125000" />
+      <workItem from="1607968106079" duration="7907000" />
     </task>
     <task id="LOCAL-00001" summary="page crée + début menu">
       <created>1607683551317</created>
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607978360343</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="page autres projets fini">
+      <created>1607978852123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607978852123</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,21 +176,22 @@
     <MESSAGE value="footer chaque page + header chaque fini" />
     <MESSAGE value="caroussel fini" />
     <MESSAGE value="page acceuil fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="page acceuil fini" />
+    <MESSAGE value="page autres projets fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="page autres projets fini" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="56" key="#SSH_Configurations" timestamp="1607464879591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="343" y="56" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1607464879591" />
-    <state x="851" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607809750767">
+    <state x="590" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607980117578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="851" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607809750767" />
-    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607978359437">
+    <state x="590" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607980117578" />
+    <state x="776" y="0" key="CommitChangelistDialog2" timestamp="1607978851516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1607978359437" />
+    <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1607978851516" />
     <state x="776" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607963706736" />
     <state x="862" y="100" width="581" height="630" key="DiffContextDialog" timestamp="1607953353498">
       <screen x="0" y="0" width="1536" height="824" />
